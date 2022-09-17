@@ -121,9 +121,6 @@ canvas:not(.experience-canvas) {
   margin-bottom: 10px;
 }
 
-.preloader-text {
-}
-
 .preloader-percentage {
   font-family: 'Montserrat';
   font-weight: bold;
