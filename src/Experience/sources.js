@@ -45,6 +45,11 @@ export default [
     path: '/textures/project_4.png',
   },
   {
+    name: 'project_5',
+    type: 'texture',
+    path: '/textures/project_5.png',
+  },
+  {
     name: 'projectDefault',
     type: 'texture',
     path: '/textures/project-default.jpg',
